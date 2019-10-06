@@ -7,4 +7,4 @@ There are two files you need to worry about when you want to modify this page fo
 
 If you have a dns, you can host this static site with GitHub pages in the settings.
 
-### Check out my version at www.alfinwilliam.github.io
+### Check out my version at alfinwilliam.github.io

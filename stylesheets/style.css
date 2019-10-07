@@ -262,7 +262,7 @@ ion-icon {
     content: "Java";
   }
   40% {
-    content: "JavaScript";
+    content: "C++";
   }
   60% {
     content: "PHP";
@@ -270,11 +270,9 @@ ion-icon {
   80% {
     content: "ASP.NET";
   }
-  90% {
+  100% {
     content: "Bash";
   }
-  100% {
-    content: "C++";
-  }
+  
   
 }
